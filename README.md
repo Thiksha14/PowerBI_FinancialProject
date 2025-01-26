@@ -1,4 +1,4 @@
-# Credit Card Financial Dashboard Using Power BI 
+# Credit Card Financial Dashboard Using **Power BI**
 
 ![image](https://github.com/user-attachments/assets/56c3c27b-82c2-4897-8be7-efb750ed16c5)
 
